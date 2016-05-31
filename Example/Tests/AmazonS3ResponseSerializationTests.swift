@@ -10,7 +10,7 @@ import Foundation
 import XCTest
 import Nimble
 
-import Alamofire
+import AlamofireDomain
 import SWXMLHash
 
 @testable import AmazonS3RequestManager

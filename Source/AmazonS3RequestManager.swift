@@ -27,7 +27,7 @@
 
 import Foundation
 
-import Alamofire
+import AlamofireDomain
 
 // MARK: - Information
 

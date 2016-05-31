@@ -10,7 +10,7 @@ import XCTest
 import Nimble
 import Nocilla
 
-import Alamofire
+import AlamofireDomain
 @testable import AmazonS3RequestManager
 
 class AmazonS3RequestManagerTests: XCTestCase {

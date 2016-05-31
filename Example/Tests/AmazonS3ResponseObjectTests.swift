@@ -8,7 +8,7 @@
 
 import XCTest
 import Nimble
-import Alamofire
+import AlamofireDomain
 
 @testable import AmazonS3RequestManager
 

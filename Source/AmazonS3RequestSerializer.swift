@@ -14,7 +14,7 @@ import Foundation
     import CoreServices
 #endif
 
-import Alamofire
+import AlamofireDomain
 
 /**
  MARK: - AmazonS3RequestSerializer

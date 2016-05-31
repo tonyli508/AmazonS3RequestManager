@@ -8,7 +8,7 @@
 
 import Foundation
 
-import Alamofire
+import AlamofireDomain
 import SWXMLHash
 
 extension Request {
