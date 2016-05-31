@@ -133,7 +133,7 @@ public class AmazonS3RequestManager {
      
      :note: This defaults to the shared instance of `Manager` used by top-level Alamofire requests.
      */
-    public var requestManager: Alamofire.Manager = Alamofire.Manager.sharedInstance
+    public var requestManager: AlamofireDomain.Manager = AlamofireDomain.Manager.sharedInstance
     
     // MARK: - Initialization
     

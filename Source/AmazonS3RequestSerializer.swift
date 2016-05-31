@@ -101,7 +101,7 @@ public class AmazonS3RequestSerializer {
      
      - returns: An `NSURLRequest`, serialized for use with the Amazon S3 service.
      */
-    public func amazonURLRequest(method: Alamofire.Method,
+    public func amazonURLRequest(method: AlamofireDomain.Method,
         path: String? = nil,
         subresource: String? = nil,
         acl: AmazonS3ACL? = nil,

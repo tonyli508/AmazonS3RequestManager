@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name = 'AmazonS3RequestManagerDomain'
-s.version = '0.12.3'
+s.version = '0.12.4'
 s.license = 'MIT'
 s.summary = 'A Alamofire based request manager that serializes requests to the AWS S3 (Amazon Simple Storage Solution). Based on AFAmazonS3Manager'
 s.homepage = 'https://github.com/tonyli508/AmazonS3RequestManager.git'
